@@ -1,0 +1,2 @@
+line1 =This is a sample text file.
+line2 = It contains multiple lines .
